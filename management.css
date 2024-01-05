@@ -1,0 +1,199 @@
+.management {
+  align-items: flex-start;
+  display: flex;
+  height: 203.15px;
+  justify-content: space-between;
+  position: relative;
+  width: 1080px;
+}
+
+.management .skill {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 250px;
+}
+
+.management .development {
+  object-fit: cover;
+  position: relative;
+}
+
+.management .headline-subhead-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 56px;
+  position: relative;
+  width: 100%;
+}
+
+.management .headline-subhead {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 100%;
+}
+
+.management .text-wrapper {
+  align-self: stretch;
+  color: #821d41;
+  font-family: "Epilogue-Bold", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.management .div {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 250px;
+}
+
+.management .implementation {
+  object-fit: cover;
+  position: relative;
+}
+
+.management .skill-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 250px;
+}
+
+.management .evaluation {
+  object-fit: cover;
+  position: relative;
+}
+
+.management .variant-4 {
+  gap: 25px;
+}
+
+.management .default {
+  align-self: stretch;
+  gap: 25px;
+}
+
+.management .variant-3 {
+  gap: 25px;
+}
+
+.management .variant-2 {
+  align-self: stretch;
+  gap: 10px;
+}
+
+.management .property-1-0-variant-4 {
+  gap: 25px;
+}
+
+.management .property-1-0-default {
+  align-self: stretch;
+  gap: 25px;
+}
+
+.management .property-1-0-variant-3 {
+  gap: 10px;
+}
+
+.management .property-1-0-variant-2 {
+  align-self: stretch;
+  gap: 25px;
+}
+
+.management .property-1-2-variant-4 {
+  gap: 10px;
+}
+
+.management .property-1-2-default {
+  align-self: stretch;
+  gap: 25px;
+}
+
+.management .property-1-2-variant-3 {
+  gap: 25px;
+}
+
+.management .property-1-2-variant-2 {
+  align-self: stretch;
+  gap: 25px;
+}
+
+.management .skill.variant-4 .development {
+  height: 145px;
+  width: 138px;
+}
+
+.management .skill.default .development {
+  height: 145px;
+  width: 138px;
+}
+
+.management .skill.variant-3 .development {
+  height: 145px;
+  width: 138px;
+}
+
+.management .skill.variant-2 .development {
+  height: 165.15px;
+  width: 158px;
+}
+
+.management .div.property-1-0-variant-4 .implementation {
+  height: 144px;
+  width: 138px;
+}
+
+.management .div.property-1-0-default .implementation {
+  height: 144px;
+  width: 138px;
+}
+
+.management .div.property-1-0-variant-3 .implementation {
+  height: 164px;
+  width: 158px;
+}
+
+.management .div.property-1-0-variant-2 .implementation {
+  height: 144px;
+  width: 138px;
+}
+
+.management .skill-2.property-1-2-variant-4 .evaluation {
+  height: 162.85px;
+  width: 158px;
+}
+
+.management .skill-2.property-1-2-default .evaluation {
+  height: 144px;
+  width: 139px;
+}
+
+.management .skill-2.property-1-2-variant-3 .evaluation {
+  height: 144px;
+  width: 139px;
+}
+
+.management .skill-2.property-1-2-variant-2 .evaluation {
+  height: 144px;
+  width: 139px;
+}
